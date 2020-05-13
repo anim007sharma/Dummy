@@ -8,7 +8,7 @@ Green
 Yellow
 Cyan
 Orange
-Red
+Maroon
 Rainbow Rainbow colors of rainbow
 
 Adding color to the rainbow
