@@ -8,4 +8,9 @@ Green
 Yellow
 Orange
 Red
-Rainbow Rainbow colors of rainbow-
+Rainbow Rainbow colors of rainbow
+
+Adding color to the rainbow
+White 
+Black
+Rainbow Rainbow colors of rainbow
