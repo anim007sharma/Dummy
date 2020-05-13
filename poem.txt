@@ -6,6 +6,7 @@ Indigo
 Blue
 Green
 Yellow
+Cyan
 Orange
 Red
 Rainbow Rainbow colors of rainbow
